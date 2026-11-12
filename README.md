@@ -38,7 +38,7 @@ learning games on **EdVerse**, creator communities on **Mextribe**, courses and 
 | | For families | For creators | For organisations |
 |---|---|---|---|
 | **Who** | Parents, children, students | Teachers, game makers, anyone with an AI subscription | Schools, universities, training providers, small and mid-size companies |
-| **What you do** | Play learning games, turn homework into a game, follow your child's progress | Build games and courses, sell them, run your own learning community | Build training, assign it to your people, see who completed what |
+| **What you do** | Play learning games, turn homework into a game, follow your child's progress | Build games and courses, alone or with others, sell them, run your own learning community | Build training as a team, assign it to your people, see who completed what |
 | **Where** | [EdVerse](https://future.mexty.ai/edverse) | EdVerse Studio and Mextribe | The MEXTY workspace: Authoring and LMS |
 | **Cost to start** | Free | Free | Authoring, Authoring + LMS or Enterprise plan |
 | **Read more** | [For parents](#for-parents-a-safe-place-and-a-way-to-follow-progress) | [For creators](#for-creators-make-list-listen-earn) | [For organisations](#for-organisations-build-assign-track) |
@@ -140,7 +140,7 @@ MEXTY is an authoring tool and an LMS, bought separately or together. With the M
 
 <table>
 <tr>
-<td width="50%"><img src="assets/platform/learning-paths.jpg" alt="Learning paths in the MEXTY workspace: a released path shown as a map of courses and evaluations"><br><sub><b>Build.</b> A learning path is a map of courses and evaluations, with branches and a final check. Edit it yourself or let your AI build the whole structure.</sub></td>
+<td width="50%"><img src="assets/platform/learning-paths.jpg" alt="Learning paths in the MEXTY workspace: a path shown as numbered cells that unlock in order"><br><sub><b>Build.</b> A learning path is a grid of numbered cells that unlock in order. A cell can hold several items, with all of them or any one required. Edit it yourself or let your AI build the whole structure.</sub></td>
 <td width="50%"><img src="assets/platform/analytics.jpg" alt="Analytics in the MEXTY workspace: learners, completion, score and time per course, and progress per learner"><br><sub><b>Track.</b> Learners, completion, score and time for each course, and a progress line for each learner.</sub></td>
 </tr>
 </table>
@@ -151,11 +151,25 @@ MEXTY is an authoring tool and an LMS, bought separately or together. With the M
 | A **training provider** | Courses that export to HTML and SCORM for the LMS your clients already have |
 | A **company** | Onboarding, compliance and product training built from your own documents; seats and roles for your teams; who completed what |
 
-- **Review before release**: work in a draft, ask a colleague to review, publish or schedule it.
 - **Roles and seats**: invite creators and learners; roles decide what each person can do.
 - **Reach beyond your walls**: post a course on Mextribe, or list an activity that works as a game on EdVerse.
 
 The MEXTY MCP comes with **Authoring**, **Authoring + LMS** and **Enterprise**. Assigning content to learners and tracking them needs the LMS. Start with [`mexty-courses-for-teams`](skills/mexty-courses-for-teams/SKILL.md); prices are on the [pricing page](https://mexty.ai/pricing).
+
+## Built together
+
+Neither a course nor a game is a one-person job, so both products are made for shared work. Learners and players only ever see what was published or merged.
+
+| | In the MEXTY workspace | In EdVerse |
+|---|---|---|
+| **Work side by side** | Co-authors on a course, activity, evaluation or learning path | Several people and their AI assistants in the same live 3D editor and the same code. Edits merge; nothing is locked |
+| **Try things safely** | Drafts: changes people are trying out, beside the Live version | Drafts of a game's world and code. Anyone who joins by the share link works in one |
+| **Review** | Name reviewers, comment on the content, see the changes and who they affect, approve or send back | See what changed object by object and file by file; the owner or a maintainer merges |
+| **Release** | Publish now or schedule it | Merge into the game; the store plays the new version after its review |
+| **Go back** | Version history: compare, and restore any version as a draft | A draft can be closed; conflicts are picked side by side |
+| **Credit** | Co-authors are named | The authors of merged work are credited, and share in what the game earns from the learner pool |
+
+A class can build one game this way: the teacher owns it, each group works in its own draft, and the class reviews each one before it is merged. See [`build-together`](skills/build-together/SKILL.md).
 
 ## What is free, and what needs a plan
 
@@ -180,6 +194,7 @@ The MCP tools spend no MEXTY credits: your own AI subscription does the thinking
 | [`free-creative-toolkit`](skills/free-creative-toolkit/SKILL.md) | Headless Blender for 3D, Whisper for subtitles, Opuscar film styles for video, stock media, before any paid generation |
 | [`mextribe-community`](skills/mextribe-community/SKILL.md) | Posts, paid plans, comments, updates and insights: a learning community run by one person |
 | [`mexty-courses-for-teams`](skills/mexty-courses-for-teams/SKILL.md) | Courses, activities, evaluations and learning paths for schools and companies, with seats and analytics |
+| [`build-together`](skills/build-together/SKILL.md) | Co-authoring, drafts, reviews, comments, versions and merges, in the workspace and in EdVerse |
 | [`instagram-showcase`](skills/instagram-showcase/SKILL.md) | Reels, Stories, carousels and captions from what you made |
 
 ### Included from other authors
