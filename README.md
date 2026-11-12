@@ -21,10 +21,6 @@ learning games on **EdVerse**, creator communities on **Mextribe**, courses and 
 
 <sub>One account for all three.</sub>
 
-<a href="https://future.mexty.ai/edverse/play/6aec3b57c9fbf8c716737432"><img src="assets/games/prism.jpg" alt="Prism: a first-person puzzle adventure about how light really behaves" width="820"></a>
-
-<sub><b><a href="https://future.mexty.ai/edverse/play/6aec3b57c9fbf8c716737432">Prism</a></b>: wake a sleeping starship one beam at a time. Mirrors, colour filters, refraction, prisms and lenses, all on real optics: you work out the rule, and the door opens. Science, ages 10–18, free. Made on EdVerse by josephmaupas2.</sub>
-
 </div>
 
 ---
@@ -47,7 +43,13 @@ These skills make both possible for someone who has never made a game: describe 
 
 ## Made on EdVerse
 
-<a href="https://future.mexty.ai/edverse"><img src="assets/platform/edverse-store.jpg" alt="The EdVerse store: learning games by subject, a weekly top 10 and free games" width="820"></a>
+<div align="center">
+
+<a href="https://future.mexty.ai/edverse/play/6aec3b57c9fbf8c716737432"><img src="assets/games/prism.jpg" alt="Prism: a first-person puzzle adventure about how light really behaves" width="820"></a>
+
+<sub><b><a href="https://future.mexty.ai/edverse/play/6aec3b57c9fbf8c716737432">Prism</a></b>: wake a sleeping starship one beam at a time. Mirrors, colour filters, refraction, prisms and lenses, all on real optics: you work out the rule, and the door opens. Science, ages 10–18, free. Made on EdVerse by josephmaupas2.</sub>
+
+</div>
 
 Every game here is live on the store and free to play. Click one to play it.
 
