@@ -107,6 +107,13 @@ You keep 80% of each game sale after the card fee, and 80% of Mextribe membershi
 
 MEXTY is an authoring tool and an LMS, bought separately or together. With the MEXTY MCP, your own AI assistant builds inside your workspace: courses, interactive activities, evaluations and whole learning paths, from your documents and policies.
 
+<table>
+<tr>
+<td width="50%"><img src="assets/platform/learning-paths.jpg" alt="Learning paths in the MEXTY workspace: a released path shown as a map of courses and evaluations"><br><sub><b>Build.</b> A learning path is a map of courses and evaluations, with branches and a final check. Edit it yourself or let your AI build the whole structure.</sub></td>
+<td width="50%"><img src="assets/platform/analytics.jpg" alt="Analytics in the MEXTY workspace: learners, completion, score and time per course, and progress per learner"><br><sub><b>Track.</b> Learners, completion, score and time for each course, and a progress line for each learner.</sub></td>
+</tr>
+</table>
+
 | You are | You get |
 |---|---|
 | A **school or university** | Curricula as learning paths, evaluations with certificates, learner roles, progress per student |
