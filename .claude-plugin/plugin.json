@@ -1,0 +1,8 @@
+{
+  "name": "elearning-agent-skills",
+  "description": "Skills for the MEXTY ecosystem: turn homework into learning games (EdVerse), pass the store review, publish and earn, run a learning community (Mextribe), and build courses for schools and companies (MEXTY).",
+  "version": "0.1.0",
+  "author": { "name": "MEXTY", "url": "https://mexty.ai" },
+  "homepage": "https://github.com/fabien-sabatie-mexty/elearning-agent-skills",
+  "keywords": ["e-learning", "education", "games", "edverse", "mextribe", "mexty", "mcp"]
+}

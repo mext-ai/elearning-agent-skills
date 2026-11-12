@@ -1,0 +1,11 @@
+{
+  "name": "mexty",
+  "owner": { "name": "MEXTY", "url": "https://mexty.ai" },
+  "plugins": [
+    {
+      "name": "elearning-agent-skills",
+      "source": "./",
+      "description": "Learning games, courses and creator communities with the MEXTY, EdVerse and Mextribe MCP servers."
+    }
+  ]
+}
