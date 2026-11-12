@@ -9,6 +9,14 @@ learning games on **EdVerse**, creator communities on **Mextribe**, courses and 
 
 [Connect your AI](https://mexty.ai/connect) · [Play on EdVerse](https://future.mexty.ai/edverse) · [Pricing](https://mexty.ai/pricing)
 
+<p>
+<a href="#for-organisations-build-assign-track"><img src="assets/logos/mexty.png" alt="MEXTY" width="76" height="76"></a>
+&nbsp;&nbsp;&nbsp;<b>×</b>&nbsp;&nbsp;&nbsp;
+<a href="https://future.mexty.ai/edverse"><img src="assets/logos/edverse.png" alt="EdVerse" width="76" height="76"></a>
+&nbsp;&nbsp;&nbsp;<b>×</b>&nbsp;&nbsp;&nbsp;
+<a href="https://future.mexty.ai/mextribe"><img src="assets/logos/mextribe.png" alt="Mextribe" width="76" height="76"></a>
+</p>
+
 ## MEXTY LMS × EdVerse × Mextribe
 
 <table>
