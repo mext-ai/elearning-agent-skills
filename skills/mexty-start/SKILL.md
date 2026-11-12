@@ -31,6 +31,8 @@ Ask at most two questions, and only what the request has not already answered: w
 | Someone with an AI subscription who wants income | Games on the store, a paid community, or both | `edverse-publish-and-earn`, `mextribe-community` |
 | A creator with an audience | Posts, paid plans, comments, insights | `mextribe-community` |
 | A school, university or company | Courses, programs, evaluations, learners and seats | `mexty-courses-for-teams` |
+| A compliance, HR or product lead | Training that follows a policy or a product, kept current, with proof of who was trained | `keep-training-current` |
+| Anyone with learners or players | A dashboard that answers one question about their learning | `analytics-dashboards` |
 | Two or more people, a class, a team | To build the same course or game together, review each other, merge | `build-together` |
 | Anyone with something finished | To show it on Instagram or TikTok | `instagram-showcase` |
 

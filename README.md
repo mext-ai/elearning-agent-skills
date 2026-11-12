@@ -143,6 +143,17 @@ One person with one AI subscription can run the whole loop. Building is free: th
 
 You keep 80% of each game sale after the card fee, and 80% of Mextribe memberships after card fees.
 
+### The EdVerse editor
+
+Every game opens in a live 3D editor in the browser. You, your collaborators and your AI assistants build in the same world at the same time: describe what you want and watch it appear, or move things yourself.
+
+<table>
+<tr>
+<td width="50%"><img src="assets/platform/editor-pyramid-quest.jpg" alt="The EdVerse editor with a desert world: pyramids, a sphinx, an oasis and characters"><br><sub><b>A world.</b> Pyramid quest in the editor. The top bar switches between view, play and edit, previews phone, tablet and desktop, opens the history, and calls the Assistant.</sub></td>
+<td width="50%"><img src="assets/platform/editor-piston-lab.jpg" alt="The EdVerse editor with a physics model: a gas cylinder, a piston and a flywheel with labels"><br><sub><b>A model.</b> Piston Lab: a gas, a piston and a flywheel, labelled with the quantities the game teaches.</sub></td>
+</tr>
+</table>
+
 ## For organisations: build, assign, track
 
 MEXTY is an authoring tool and an LMS, bought separately or together. With the MEXTY MCP, your own AI assistant builds inside your workspace: courses, interactive activities, evaluations and whole learning paths, from your documents and policies.
@@ -161,9 +172,24 @@ MEXTY is an authoring tool and an LMS, bought separately or together. With the M
 | A **company** | Onboarding, compliance and product training built from your own documents; seats and roles for your teams; who completed what |
 
 - **Roles and seats**: invite creators and learners; roles decide what each person can do.
+- **Your own dashboards**: beyond the standard analytics, build a dashboard that answers your question with live data: onboarding completions per week, certificates about to expire, the questions a class gets wrong. Share it with a role, a team or one person ([`analytics-dashboards`](skills/analytics-dashboards/SKILL.md)).
 - **Reach beyond your walls**: post a course on Mextribe, or list an activity that works as a game on EdVerse.
 
 The MEXTY MCP comes with **Authoring**, **Authoring + LMS** and **Enterprise**. Assigning content to learners and tracking them needs the LMS. Start with [`mexty-courses-for-teams`](skills/mexty-courses-for-teams/SKILL.md); prices are on the [pricing page](https://mexty.ai/pricing).
+
+## Compliance, and training that keeps itself current
+
+Compliance training fails quietly: the policy changes and the course does not. Here a course has a source, a version and an owner, and an AI agent can watch the source for you.
+
+| When | What happens |
+|---|---|
+| A policy, a law or a product sheet changes | The agent reads the new version, finds the courses that cite it and drafts the changes, nothing more |
+| Before learners see anything | The course owner reviews the draft, sees who is enrolled and certified, and publishes or schedules it for the day the policy takes effect |
+| After a material change | You see who holds a certificate for the old version and reassign only what changed |
+| Every week, on a schedule | A report: what changed, which drafts are waiting, whose certificate lapses soon |
+| A new course is published | The agent can draft a landing page and an offer to sell it outside the organisation |
+
+Works for data protection, security, health and safety, codes of conduct, AI literacy and product training. Nothing is published, certified or put on sale without a person's yes. See [`keep-training-current`](skills/keep-training-current/SKILL.md).
 
 ## Built together
 
@@ -204,6 +230,8 @@ The MCP tools spend no MEXTY credits: your own AI subscription does the thinking
 | [`free-creative-toolkit`](skills/free-creative-toolkit/SKILL.md) | Headless Blender for 3D, Whisper for subtitles, Opuscar film styles for video, stock media, before any paid generation |
 | [`mextribe-community`](skills/mextribe-community/SKILL.md) | Posts, paid plans, comments, updates and insights: a learning community run by one person |
 | [`mexty-courses-for-teams`](skills/mexty-courses-for-teams/SKILL.md) | Courses, activities, evaluations and learning paths for schools and companies, with seats and analytics |
+| [`analytics-dashboards`](skills/analytics-dashboards/SKILL.md) | Builds a custom dashboard that answers one question about learning with live data |
+| [`keep-training-current`](skills/keep-training-current/SKILL.md) | Compliance and product training tied to its source: drafts on change, review, re-certification, scheduled agents, and a sales page from a course |
 | [`build-together`](skills/build-together/SKILL.md) | Co-authoring, drafts, reviews, comments, versions and merges, in the workspace and in EdVerse |
 | [`instagram-showcase`](skills/instagram-showcase/SKILL.md) | Reels, Stories, carousels and captions from what you made |
 
