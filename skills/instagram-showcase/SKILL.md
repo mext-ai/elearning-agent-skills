@@ -38,6 +38,10 @@ Add captions on screen; most people watch without sound. Cut and reframe with ff
 
 Pick one angle per post.
 
+## Companion skills
+
+For a motion graphics opener or promo, the bang-motion skill; for carousel slides and posters, canvas-design. Both are listed with their sources in `THIRD_PARTY.md` and are installed separately.
+
 ## Captions
 
 - First line carries the whole point; the rest is cut off in the feed.

@@ -34,6 +34,8 @@ Ask at most two questions, and only what the request has not already answered: w
 
 A person can be several of these. A teacher who builds a game for their class, lists it on EdVerse, posts it on Mextribe and shares the Story card is using four skills in a row: say which step you are on.
 
+A parent who wants to follow their child, not build anything: there is nothing to install. Send them to the Learners page of EdVerse (add a learner, see play time, skills mastered and skills that need practice, set a daily limit and quiet hours).
+
 ## Step 2: check what is connected
 
 Look at the tools you actually have. If the server a route needs is missing, say which one and give https://mexty.ai/connect. Never pretend a tool ran.

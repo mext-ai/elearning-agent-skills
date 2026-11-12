@@ -33,6 +33,8 @@ Pick the action that is the skill. One mechanic, done well.
 | Understand a system (water cycle, circuits, a body) | Assemble it or run it and watch what changes |
 | Learn words in another language | Listen and act: fetch, serve, point |
 
+For how a genre is built and what makes it feel good, read the matching playbook in `third-party/gamedev/` (`puzzle`, `platformer`, `fps-shooter`, `card-game`, `rpg`, plus `game-feel`, `level-design`, `game-ui-ux`, `prototype-fast`). They are written for games in general: where they suggest timers, lives or losing, the rules below for children come first.
+
 Check `search_edverse_store` for the topic and age first. If a good game already exists, say so; the person may only need to play it.
 
 ## 3. Build
