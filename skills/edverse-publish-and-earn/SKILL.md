@@ -27,6 +27,8 @@ Read the bounds from `get_edverse_game_guide` (`listing.storeOptions`, `listing.
 
 ★ Included can be added on top of fixed or pay what you want: seat holders play it, everyone else buys it.
 
+On a sale, the creator keeps 80% of the price after the card fee. The Studio's Sell dialog shows the exact amount for a given price; quote that, not your own arithmetic.
+
 A paid option needs payouts set up in the Studio. `get_seller_status` says what is missing. You cannot set up payouts or tax details: give the person the Studio link.
 
 Never promise an income. Show what the tools return: `get_earnings` for the balance, sales and pool line, `get_game_stats` and `get_studio_overview` for players and finishes.

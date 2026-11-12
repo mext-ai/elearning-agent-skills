@@ -51,6 +51,7 @@ MEXTY offers the film styles of the open-source Lemo-Opuscar library (chalkboard
 1. `propose_video_styles({ topic })` shows a few. Stop and let the person pick; do not choose for them.
 2. `get_video_style({ slug })` returns the style's guide and the production steps. Follow them.
 3. Render, then put the MP4 and its SRT in the person's library.
+4. Credit the style wherever the film is described or posted: `Style: <Style name> from Lemo-Opuscar by Lemomo (github.com/lemomo-ai/lemo-opuscar), CC BY 4.0.` Do not burn a watermark into the film.
 
 ## Stock media and the catalogue
 

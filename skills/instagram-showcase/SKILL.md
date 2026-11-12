@@ -45,6 +45,7 @@ Pick one angle per post.
 - One call to action: play it, follow, or make your own.
 - A few specific hashtags (the subject, the grade, the kind of game) beat many general ones.
 - Say that it was built with AI when it was.
+- A film made in an Opuscar style carries its credit line in the caption (`free-creative-toolkit`).
 
 ## Rules
 

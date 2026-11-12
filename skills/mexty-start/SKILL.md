@@ -10,7 +10,7 @@ MEXTY is three products that share one account:
 | Product | What it is | MCP server | Cost to use the MCP |
 |---|---|---|---|
 | **EdVerse** | A store of learning games for ages 4 to 18, with a Studio and a 3D editor to make them | `https://mcp.mexty.ai/mcp/edverse` | Free |
-| **Mextribe** | A social network for learning: creators post courses, activities, videos and games; learners follow for free or subscribe to paid plans | Mextribe connector | Free |
+| **Mextribe** | A social network for learning: creators post courses, activities, videos and games; learners follow for free or subscribe to paid plans | `https://mcp.mexty.ai/mcp/mextribe` | Free |
 | **MEXTY** | AI authoring (courses, interactive blocks, evaluations, learning paths) and an LMS for organisations | `https://mcp.mexty.ai/mcp/mexty` | Authoring, Authoring + LMS or Enterprise plan |
 
 Install links for every AI app are at https://mexty.ai/connect. The sign-in happens inside the AI app.

@@ -75,6 +75,7 @@ Not sure? [`mexty-start`](skills/mexty-start/SKILL.md) asks what you want and se
 | **What it is** | Store and studio for learning games, ages 4–18 | Social network for learning, with paid creator plans | AI authoring and LMS for organisations |
 | **Using it with your AI** | **Free** | **Free** | **Authoring**, **Authoring + LMS** or **Enterprise** plan |
 | **How you earn** | Sell a game at a fixed price or pay what you want, or get paid from the learner pool by minutes played (★ Included) | Paid membership plans and single sales | — |
+| **What you keep** | 80% of each sale after the card fee | 80% after card fees | — |
 
 The MCP tools spend no MEXTY credits: your own AI subscription does the thinking. Only media generation (images, voices, 3D models, transcription) spends credits, and [`free-creative-toolkit`](skills/free-creative-toolkit/SKILL.md) shows the free way to do each one.
 
@@ -119,7 +120,8 @@ One person with one AI subscription can run the whole loop:
 
 ```bash
 claude mcp add --transport http edverse https://mcp.mexty.ai/mcp/edverse
-claude mcp add --transport http mexty   https://mcp.mexty.ai/mcp/mexty
+claude mcp add --transport http mextribe https://mcp.mexty.ai/mcp/mextribe
+claude mcp add --transport http mexty    https://mcp.mexty.ai/mcp/mexty
 ```
 
 **2. Add the skills.**
