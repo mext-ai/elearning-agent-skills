@@ -147,13 +147,6 @@ You keep 80% of each game sale after the card fee, and 80% of Mextribe membershi
 
 Every game opens in a live 3D editor in the browser. You, your collaborators and your AI assistants build in the same world at the same time: describe what you want and watch it appear, or move things yourself.
 
-<table>
-<tr>
-<td width="50%"><img src="assets/platform/editor-pyramid-quest.jpg" alt="The EdVerse editor with a desert world: pyramids, a sphinx, an oasis and characters"><br><sub><b>A world.</b> Pyramid quest in the editor. The top bar switches between view, play and edit, previews phone, tablet and desktop, opens the history, and calls the Assistant.</sub></td>
-<td width="50%"><img src="assets/platform/editor-piston-lab.jpg" alt="The EdVerse editor with a physics model: a gas cylinder, a piston and a flywheel with labels"><br><sub><b>A model.</b> Piston Lab: a gas, a piston and a flywheel, labelled with the quantities the game teaches.</sub></td>
-</tr>
-</table>
-
 ## For organisations: build, assign, track
 
 MEXTY is an authoring tool and an LMS, bought separately or together. With the MEXTY MCP, your own AI assistant builds inside your workspace: courses, interactive activities, evaluations and whole learning paths, from your documents and policies.
