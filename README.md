@@ -86,6 +86,15 @@ Every game here is live on the store and free to play. Click one to play it.
 | Needs practice | Skills answered right less than 60% of the time |
 | Games they can see | You choose whether free games and paid games appear in their store |
 
+<table>
+<tr>
+<td width="64%"><img src="assets/platform/parent-dashboard.jpg" alt="The EdVerse grown-up dashboard: play time, games played, skills mastered and days active for one learner"><br><sub><b>Your dashboard.</b> Play time, games played, skills mastered and days active for each learner, over 7 or 30 days.</sub></td>
+<td width="36%"><img src="assets/platform/parent-settings.jpg" alt="EdVerse parent settings: age range, daily limit, quiet hours and which games a child can see"><br><sub><b>Your settings.</b> Age range, a daily limit, quiet hours, and which games they can see. Saved to your account and applied on every device.</sub></td>
+</tr>
+</table>
+
+<sub>Shown with a demo learner.</sub>
+
 **You stay in charge.** Set a daily time limit and hours with no games; both apply on every device. A child never sees a payment screen: they see the price and ask you first. AI assistants cannot see children's profiles or progress.
 
 **And when the homework is the problem:** give your AI the worksheet and get a game your child can play tonight, with [`homework-to-game`](skills/homework-to-game/SKILL.md).
