@@ -9,6 +9,18 @@ learning games on **EdVerse**, creator communities on **Mextribe**, courses and 
 
 [Connect your AI](https://mexty.ai/connect) · [Play on EdVerse](https://future.mexty.ai/edverse) · [Pricing](https://mexty.ai/pricing)
 
+## MEXTY LMS × EdVerse × Mextribe
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="#for-organisations-build-assign-track"><img src="assets/platform/hero-lms.jpg" alt="MEXTY LMS: learning paths in an organisation's workspace"></a><br><b>MEXTY LMS</b><br><sub>Courses, learning paths and tracking for schools and companies</sub></td>
+<td width="33%" align="center"><a href="https://future.mexty.ai/edverse"><img src="assets/platform/hero-edverse.jpg" alt="EdVerse: the store of learning games"></a><br><b>EdVerse</b><br><sub>Learning games for ages 4 to 18. Play them, build them, sell them</sub></td>
+<td width="33%" align="center"><a href="https://future.mexty.ai/mextribe"><img src="assets/platform/hero-mextribe.jpg" alt="Mextribe: courses, paths, videos and games from creators"></a><br><b>Mextribe</b><br><sub>Learn from creators. Teach your tribe</sub></td>
+</tr>
+</table>
+
+<sub>One account for all three.</sub>
+
 <a href="https://future.mexty.ai/edverse/play/6aec3b57c9fbf8c716737432"><img src="assets/games/prism.jpg" alt="Prism: a first-person puzzle adventure about how light really behaves" width="820"></a>
 
 <sub><b><a href="https://future.mexty.ai/edverse/play/6aec3b57c9fbf8c716737432">Prism</a></b>: wake a sleeping starship one beam at a time. Mirrors, colour filters, refraction, prisms and lenses, all on real optics: you work out the rule, and the door opens. Science, ages 10–18, free. Made on EdVerse by josephmaupas2.</sub>
