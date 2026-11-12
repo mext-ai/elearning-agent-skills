@@ -9,9 +9,9 @@ learning games on **EdVerse**, creator communities on **Mextribe**, courses and 
 
 [Connect your AI](https://mexty.ai/connect) · [Play on EdVerse](https://future.mexty.ai/edverse) · [Pricing](https://mexty.ai/pricing)
 
-<img src="assets/games/songthaew-rush.jpg" alt="Songthaew Rush: an open-world game set in the real streets of Chiang Mai" width="820">
+<a href="https://future.mexty.ai/edverse/play/6aec3b57c9fbf8c716737432"><img src="assets/games/prism.jpg" alt="Prism: a first-person puzzle adventure about how light really behaves" width="820"></a>
 
-<sub><b>Songthaew Rush</b>: drive a red songthaew through Chiang Mai, rebuilt from OpenStreetMap, and learn how the city fits together. Geography, ages 16–18. Built with the EdVerse MCP. Coming soon to the store.</sub>
+<sub><b><a href="https://future.mexty.ai/edverse/play/6aec3b57c9fbf8c716737432">Prism</a></b>: wake a sleeping starship one beam at a time. Mirrors, colour filters, refraction, prisms and lenses, all on real optics: you work out the rule, and the door opens. Science, ages 10–18, free. Made on EdVerse by josephmaupas2.</sub>
 
 </div>
 
@@ -37,7 +37,7 @@ These skills make both possible for someone who has never made a game: describe 
 
 <a href="https://future.mexty.ai/edverse"><img src="assets/platform/edverse-store.jpg" alt="The EdVerse store: learning games by subject, a weekly top 10 and free games" width="820"></a>
 
-Every game below is live on the store and free to play. Click one to play it.
+Every game here is live on the store and free to play. Click one to play it.
 
 <table>
 <tr>
@@ -47,7 +47,7 @@ Every game below is live on the store and free to play. Click one to play it.
 </tr>
 <tr>
 <td><a href="https://future.mexty.ai/edverse/play/6ad711bd87e1e3de99f9e2c8"><img src="assets/games/mathbot-siege.jpg" alt="MathBot Siege"></a><br><b><a href="https://future.mexty.ai/edverse/play/6ad711bd87e1e3de99f9e2c8">MathBot Siege</a></b><br><sub>Shoot the screen showing the right answer to power the robot down. Math, ages 7–12.</sub></td>
-<td><a href="https://future.mexty.ai/edverse/play/6aec3b57c9fbf8c716737432"><img src="assets/games/prism.jpg" alt="Prism"></a><br><b><a href="https://future.mexty.ai/edverse/play/6aec3b57c9fbf8c716737432">Prism</a></b><br><sub>Wake a sleeping starship with real optics: mirrors, filters, lenses. Science, ages 10–18. By josephmaupas2.</sub></td>
+<td><a href="https://future.mexty.ai/edverse/play/6ae1d1c8b82eb1abf68a3fa6"><img src="assets/games/cartographers-of-the-fog.jpg" alt="The Cartographers of the Fog"></a><br><b><a href="https://future.mexty.ai/edverse/play/6ae1d1c8b82eb1abf68a3fa6">The Cartographers of the Fog</a></b><br><sub>A sea battle in the fog to practise grid coordinates and compass directions. Math, ages 7–12. By josephmaupas2.</sub></td>
 <td><a href="https://future.mexty.ai/edverse/play/6ad9bb439c6bc47946fdc049"><img src="assets/games/body-heroes.jpg" alt="Body Heroes"></a><br><b><a href="https://future.mexty.ai/edverse/play/6ad9bb439c6bc47946fdc049">Body Heroes</a></b><br><sub>3D anatomy and hands-on surgery, from school biology to pre-med. Body &amp; health, ages 13–18. By nixht1.</sub></td>
 </tr>
 <tr>
@@ -58,12 +58,12 @@ Every game below is live on the store and free to play. Click one to play it.
 </table>
 
 <details>
-<summary>More from Songthaew Rush</summary>
+<summary>More from Prism</summary>
 <br>
 <table><tr>
-<td><img src="assets/games/songthaew-rush-1.jpg" alt="Songthaew Rush screenshot 1"></td>
-<td><img src="assets/games/songthaew-rush-2.jpg" alt="Songthaew Rush screenshot 2"></td>
-<td><img src="assets/games/songthaew-rush-3.jpg" alt="Songthaew Rush screenshot 3"></td>
+<td><img src="assets/games/prism-1.jpg" alt="Prism: aiming starlight with heliostats and a lens"></td>
+<td><img src="assets/games/prism-2.jpg" alt="Prism: a beam bends from 58° in air to 40° in water"></td>
+<td><img src="assets/games/prism-3.jpg" alt="Prism screenshot 3"></td>
 </tr></table>
 </details>
 
@@ -106,13 +106,6 @@ You keep 80% of each game sale after the card fee, and 80% of Mextribe membershi
 ## For organisations: build, assign, track
 
 MEXTY is an authoring tool and an LMS, bought separately or together. With the MEXTY MCP, your own AI assistant builds inside your workspace: courses, interactive activities, evaluations and whole learning paths, from your documents and policies.
-
-<table>
-<tr>
-<td width="50%"><img src="assets/platform/learning-path-editor.jpg" alt="The learning path editor: courses and evaluations linked in order, with deadlines"><br><sub><b>Build.</b> A learning path links courses and evaluations in order, with optional deadlines and locked steps.</sub></td>
-<td width="50%"><img src="assets/platform/lms-analytics.jpg" alt="LMS analytics: completion, score and time per course, and progress per learner"><br><sub><b>Track.</b> Completion, score and time for each course, and a progress line for each learner.</sub></td>
-</tr>
-</table>
 
 | You are | You get |
 |---|---|
