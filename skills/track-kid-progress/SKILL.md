@@ -7,15 +7,16 @@ description: Helps a parent, guardian or teacher see what their child learned on
 
 For grown-ups, not for children. The report is about one family's own learners and stays with that family.
 
-Free to use. What EdVerse itself shows depends on the learner:
+The skill is free. The report itself needs a **learner seat** for the child (from €5 a month, less per learner as a school or family adds more; the Learners page shows the exact price).
 
-| Shown for every kid profile | Shown with a learner seat |
+| On the Learners page, for every kid profile | With a learner seat |
 |---|---|
 | Play time, games played, days active | Skills mastered |
 | When they play (morning, after school, evening) | Needs practice: skills answered right less than 60% of the time |
 | Today's minutes against the daily limit | Subjects they play, progress in each game |
+| | The report through your AI (`get_learner_report`) |
 
-If the grown-up asks for skills and the learner has no seat, say what is available without one and what a seat adds. Do not guess at skills from play time.
+A learner seat also unlocks every ★ Included game for that child.
 
 ## 1. Agree on the question
 
@@ -27,13 +28,15 @@ Ask only what is missing:
 
 ## 2. Get the data
 
-Look at the tools you have. If one returns a learner's EdVerse progress for the signed-in grown-up, use it and nothing else.
+Call `get_learner_report` on the EdVerse MCP, signed in as the grown-up:
 
-If there is none, the data is on the grown-up's own dashboard, and they bring it to you:
+- `days`: 7 or 30.
+- `timeZone`: the family's time zone, so days start and end where they live.
+- `profileId`: one learner, or leave it out for all of them.
 
-1. They open EdVerse, choose their grown-up profile, and go to **Progress**.
-2. They pick 7 or 30 days, then copy the page or take a screenshot of the play time, the learning report and "When they play".
-3. For what the games themselves saved (achievements, levels), **Download what games saved** on the same page.
+It returns, for each learner with a seat: minutes played and minutes per day, days active, the games played, skills mastered, skills that need practice with their accuracy, subjects, when they play, and today's minutes against the daily limit.
+
+A learner without a seat comes back with `seat: false` and no play data. Say so plainly, tell the grown-up what they can still see themselves on the Learners page (play time, games played, days active), and give the `seatsUrl` if they want the report. Do not rebuild the report another way, and do not guess at skills from play time.
 
 Never ask for the child's password or sign in as the child, and never ask the child for anything.
 
@@ -72,7 +75,7 @@ Rules for the wording:
 
 ## 5. A regular report
 
-- **Weekly or monthly**: if the AI app can schedule a task, offer to set one up that asks for (or fetches) the new period and writes the report. Otherwise suggest a day of the week and keep the same template so reports compare.
+- **Weekly or monthly**: if the AI app can schedule a task, offer to set one up that calls `get_learner_report` for the new period and writes the report. Otherwise suggest a day of the week and keep the same template so reports compare.
 - **Over a longer period**: keep each report's facts (dates, minutes, days active, mastered, needs practice). A term report is these laid side by side: what moved from "needs practice" to "mastered", what stayed.
 - Store reports where the grown-up chooses. Do not post them or send them to anyone, including a teacher, unless the grown-up asks.
 

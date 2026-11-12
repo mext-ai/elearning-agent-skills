@@ -105,12 +105,15 @@ Every game here is live on the store and free to play. Click one to play it.
 
 **Follow what they learn.** In EdVerse, a grown-up adds each child as a learner and gets a dashboard for them:
 
-| You see | What it tells you |
-|---|---|
-| Play time and when they play | How much, and at what time of day |
-| Skills mastered | What they answer right consistently |
-| Needs practice | Skills answered right less than 60% of the time |
-| Games they can see | You choose whether free games and paid games appear in their store |
+| You see | What it tells you | |
+|---|---|---|
+| Play time, games played, days active | How much, and how regularly | Free |
+| When they play | Morning, after school or evening | Free |
+| Skills mastered | What they answer right consistently | Learner seat |
+| Needs practice | Skills answered right less than 60% of the time | Learner seat |
+| Subjects and progress in each game | Where the time goes | Learner seat |
+
+A learner seat starts at €5 a month per child and also unlocks every ★ Included game.
 
 <table>
 <tr>
@@ -123,7 +126,7 @@ Every game here is live on the store and free to play. Click one to play it.
 
 **You stay in charge.** Set a daily time limit and hours with no games; both apply on every device. A child never sees a payment screen: they see the price and ask you first. AI assistants cannot see children's profiles or progress.
 
-**Ask your AI for the report.** "What did Mia learn this month, and what should we practise?" With [`track-kid-progress`](skills/track-kid-progress/SKILL.md), your AI turns the dashboard into a short report in plain words, with one game to try next, every week or every month if you want.
+**Ask your AI for the report.** "What did Mia learn this month, and what should we practise?" With [`track-kid-progress`](skills/track-kid-progress/SKILL.md), your AI reads the learning report of the children who hold a learner seat and writes it up in plain words, with one game to try next, every week or every month if you want.
 
 **And when the homework is the problem:** give your AI the worksheet and get a game your child can play tonight, with [`homework-to-game`](skills/homework-to-game/SKILL.md).
 
