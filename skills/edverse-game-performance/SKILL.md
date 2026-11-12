@@ -41,11 +41,16 @@ The children who play EdVerse games are often on a shared tablet or an older pho
 - Initialise asynchronously before the first frame, and handle the device being lost.
 - Materials and effects for it are written in TSL (node materials), not raw GLSL strings. Old `ShaderMaterial` code has to be ported.
 - Use it when it buys something: many instances, compute-driven particles, heavier scenes on desktop. For a small game, WebGL is enough.
+- For the renderer, TSL node materials, compute shaders, post-processing and device loss in detail, read `third-party/webgpu-threejs-tsl/SKILL.md` in this repository.
 - The API moves quickly. Read the current three.js documentation for the version in `package.json` before writing renderer code, and do not trust remembered signatures.
 
 ## In an EdVerse scene game
 
 The world is drawn by `<SceneCanvas>`. Do not replace its renderer or edit `src/edverse-scene/*`. Read `get_3d_guide` (topic `scene-games`) for what the scene supports, keep the world in the scene, and spend your optimisation effort on asset weight, instance counts and the logic in `src/block.tsx`.
+
+## Going deeper
+
+`third-party/gamedev/` holds engine-neutral skills that pair with this one: `performance-optimization`, `threejs-scene-setup`, `threejs-gltf-loading`, `threejs-materials-lighting`, `camera-systems`, `input-systems`, `save-systems`. Read the one that matches the problem. In an EdVerse scene game the EdVerse guide wins wherever the two disagree.
 
 ## Done means
 

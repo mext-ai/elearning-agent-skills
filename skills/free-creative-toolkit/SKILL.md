@@ -59,6 +59,10 @@ MEXTY offers the film styles of the open-source Lemo-Opuscar library (chalkboard
 - `search_asset_catalogue` finds 3D assets other creators shared.
 - Write down where each asset came from. The store review asks whether the author has the right to use everything in the game.
 
+## Going deeper
+
+`third-party/gamedev/create-game-assets` covers a whole art pipeline (brief, manifest, validation, provenance) and `third-party/gamedev/audio-design` covers game sound.
+
 ## Rights
 
 Free to download is not the same as free to reuse. Use assets that are made by the author, licensed to them, or under a licence that allows reuse in a published, possibly paid, game, and keep the attribution the licence asks for.

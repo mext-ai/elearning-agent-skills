@@ -42,7 +42,7 @@ Follow the server's own instructions for each type; they are strict for good rea
 
 ## Review before learners see it
 
-Work in a draft (`create_content_draft`), ask for a review (`request_content_review`), and publish or schedule it once approved. Check `get_my_access` before editing something that is not yours.
+Work in a draft (`create_content_draft`), ask for a review (`request_content_review`), and publish or schedule it once approved. Check `get_my_access` before editing something that is not yours. Co-authors, reviewers, comments and version history are covered in `build-together`.
 
 ## Distribute
 
