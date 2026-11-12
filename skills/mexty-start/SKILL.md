@@ -25,6 +25,7 @@ Ask at most two questions, and only what the request has not already answered: w
 |---|---|---|
 | A student | To turn homework or revision into a game | `homework-to-game` |
 | A parent | A game that helps their child with one topic | `homework-to-game` |
+| A parent or guardian | To know what their child learned and what to practise | `track-kid-progress` |
 | A teacher | A game or activity for a class, sometimes sold to other teachers | `homework-to-game`, then `edverse-publish-and-earn` |
 | A game creator | To build, polish and sell learning games | `edverse-game-performance`, `edverse-game-qa`, `edverse-publish-and-earn` |
 | Someone with an AI subscription who wants income | Games on the store, a paid community, or both | `edverse-publish-and-earn`, `mextribe-community` |
@@ -35,7 +36,7 @@ Ask at most two questions, and only what the request has not already answered: w
 
 A person can be several of these. A teacher who builds a game for their class, lists it on EdVerse, posts it on Mextribe and shares the Story card is using four skills in a row: say which step you are on.
 
-A parent who wants to follow their child, not build anything: there is nothing to install. Send them to the Learners page of EdVerse (add a learner, see play time, skills mastered and skills that need practice, set a daily limit and quiet hours).
+A parent who wants to follow their child, not build anything: go to `track-kid-progress`. It reads the EdVerse Learners dashboard with them and writes the report.
 
 ## Step 2: check what is connected
 

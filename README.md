@@ -2,7 +2,9 @@
 
 # E-learning agent skills
 
-**Turn homework into games. Turn lessons into courses. Turn what you know into a community.**
+**Play to learn, build to earn.**
+
+Turn homework into games. Turn lessons into courses. Turn what you know into a community.
 
 Skills that teach Claude, ChatGPT, Gemini, Cursor or any AI agent to build on the MEXTY ecosystem:
 learning games on **EdVerse**, creator communities on **Mextribe**, courses and learning paths on **MEXTY**.
@@ -43,9 +45,11 @@ learning games on **EdVerse**, creator communities on **Mextribe**, courses and 
 | **Cost to start** | Free | Free | Authoring, Authoring + LMS or Enterprise plan |
 | **Read more** | [For parents](#for-parents-a-safe-place-and-a-way-to-follow-progress) | [For creators](#for-creators-make-list-listen-earn) | [For organisations](#for-organisations-build-assign-track) |
 
-## Play to learn. Build to learn.
+## Play to learn, build to earn
 
-A child who plays a good learning game practises a skill without being asked to. A student who *builds* one has to understand the lesson well enough to explain it to a game. Both are learning; the second one sticks longer.
+**Play to learn.** A child who plays a good learning game practises a skill without being asked to, and a grown-up can see what they practised.
+
+**Build to earn.** Whoever builds the game earns twice. First in understanding: you cannot turn a lesson into a game without knowing it well enough to explain it to one. Then in money: a game on the store can be sold, or paid by the minutes children play it.
 
 These skills make both possible for someone who has never made a game: describe the homework, and your AI builds the game with you, checks it against the store's requirements, and helps you publish it.
 
@@ -119,6 +123,8 @@ Every game here is live on the store and free to play. Click one to play it.
 
 **You stay in charge.** Set a daily time limit and hours with no games; both apply on every device. A child never sees a payment screen: they see the price and ask you first. AI assistants cannot see children's profiles or progress.
 
+**Ask your AI for the report.** "What did Mia learn this month, and what should we practise?" With [`track-kid-progress`](skills/track-kid-progress/SKILL.md), your AI turns the dashboard into a short report in plain words, with one game to try next, every week or every month if you want.
+
 **And when the homework is the problem:** give your AI the worksheet and get a game your child can play tonight, with [`homework-to-game`](skills/homework-to-game/SKILL.md).
 
 ## For creators: make, list, listen, earn
@@ -188,6 +194,7 @@ The MCP tools spend no MEXTY credits: your own AI subscription does the thinking
 |---|---|
 | [`mexty-start`](skills/mexty-start/SKILL.md) | Works out who you are and what you need, picks the free route first, hands over to the right skill |
 | [`homework-to-game`](skills/homework-to-game/SKILL.md) | Reads a worksheet, lesson or revision list and builds a game where playing is the practising |
+| [`track-kid-progress`](skills/track-kid-progress/SKILL.md) | For parents: what a child learned on EdVerse over a week or a month, as a short report with what to try next |
 | [`edverse-game-qa`](skills/edverse-game-qa/SKILL.md) | Checks a game against the 11 EdVerse Game Requirements before the store review, and fixes what a review sent back |
 | [`edverse-publish-and-earn`](skills/edverse-publish-and-earn/SKILL.md) | Listing, pricing, submitting, and running a game with the Suggestion box and the stats |
 | [`edverse-game-performance`](skills/edverse-game-performance/SKILL.md) | Makes a 3D browser game run on a school tablet: budgets, profiling, WebGL and WebGPU |
@@ -252,6 +259,8 @@ Claude.ai: zip a skill folder and upload it under Settings → Capabilities → 
 **3. Say what you want.**
 
 > Here is my daughter's fractions worksheet. Turn it into a game she can play on the tablet.
+
+> What did my son learn on EdVerse this month, and what should we practise?
 
 > Is my game ready for the EdVerse review?
 
