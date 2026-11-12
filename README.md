@@ -71,7 +71,7 @@ Every game here is live on the store and free to play. Click one to play it.
 
 **Safe by the store's rules.** Every game is tested against the same requirements before it is listed, first by its author and then by a MEXTY reviewer. A game on EdVerse has:
 
-- no chat, no links out of the game, no purchase buttons and no sign-up wall;
+- no ads, no chat, no links out of the game, no purchase buttons and no sign-up wall;
 - no request for a child's name, email, photo or location, and no trackers;
 - nothing violent, scary or mocking, and nothing that pressures a child to keep playing or to pay;
 - kind handling of wrong answers, and sound that can be muted;
