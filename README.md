@@ -35,6 +35,51 @@ learning games on **EdVerse**, creator communities on **Mextribe**, courses and 
 
 ---
 
+## The skills
+
+Twenty-three skills, grouped by who they are for. Each group has its own page with use cases and prompts to copy.
+
+**Start here** · [`mexty-start`](skills/mexty-start/SKILL.md) works out who you are and what you need, picks the free route first, and hands over.
+
+| For | Skills | Page |
+|---|---|---|
+| **Parents** | [`homework-to-game`](skills/homework-to-game/SKILL.md) · [`track-kid-progress`](skills/track-kid-progress/SKILL.md) · [`pick-games-for-my-kid`](skills/pick-games-for-my-kid/SKILL.md) | [Parents](audiences/parents.md) |
+| **Game developers** | [`learning-game-design`](skills/learning-game-design/SKILL.md) · [`homework-to-game`](skills/homework-to-game/SKILL.md) · [`edverse-game-qa`](skills/edverse-game-qa/SKILL.md) · [`edverse-publish-and-earn`](skills/edverse-publish-and-earn/SKILL.md) · [`edverse-game-performance`](skills/edverse-game-performance/SKILL.md) · [`multiplayer-and-saves`](skills/multiplayer-and-saves/SKILL.md) · [`free-creative-toolkit`](skills/free-creative-toolkit/SKILL.md) | [Game developers](audiences/game-developers.md) |
+| **Universities and schools** | [`curriculum-to-learning-path`](skills/curriculum-to-learning-path/SKILL.md) · [`ai-literacy-curriculum`](skills/ai-literacy-curriculum/SKILL.md) · [`assessment-design`](skills/assessment-design/SKILL.md) · [`mexty-courses-for-teams`](skills/mexty-courses-for-teams/SKILL.md) | [Universities and schools](audiences/universities-and-schools.md) |
+| **Companies** | [`onboarding-path`](skills/onboarding-path/SKILL.md) · [`compliance-course`](skills/compliance-course/SKILL.md) · [`keep-training-current`](skills/keep-training-current/SKILL.md) · [`ai-literacy-at-work`](skills/ai-literacy-at-work/SKILL.md) · [`sales-enablement`](skills/sales-enablement/SKILL.md) · [`analytics-dashboards`](skills/analytics-dashboards/SKILL.md) | [Companies](audiences/companies.md) |
+| **Everyone** | [`build-together`](skills/build-together/SKILL.md) · [`mextribe-community`](skills/mextribe-community/SKILL.md) · [`instagram-showcase`](skills/instagram-showcase/SKILL.md) | |
+
+<details>
+<summary>What each skill does</summary>
+
+| Skill | What it does |
+|---|---|
+| [`mexty-start`](skills/mexty-start/SKILL.md) | Works out who you are and what you need, picks the free route first, hands over to the right skill |
+| [`homework-to-game`](skills/homework-to-game/SKILL.md) | Reads a worksheet, lesson or revision list and builds a game where playing is the practising |
+| [`track-kid-progress`](skills/track-kid-progress/SKILL.md) | For parents: what a child learned on EdVerse over a week or a month, as a short report with what to try next |
+| [`pick-games-for-my-kid`](skills/pick-games-for-my-kid/SKILL.md) | Chooses games by age, subject and language, and sets up a calm routine and screen-time settings |
+| [`learning-game-design`](skills/learning-game-design/SKILL.md) | Designs the game before any code: the skill, the loop, the levels, on one page |
+| [`edverse-game-qa`](skills/edverse-game-qa/SKILL.md) | Checks a game against the 11 EdVerse Game Requirements before the store review, and fixes what a review sent back |
+| [`edverse-publish-and-earn`](skills/edverse-publish-and-earn/SKILL.md) | Listing, pricing, submitting, and running a game with the Suggestion box and the stats |
+| [`edverse-game-performance`](skills/edverse-game-performance/SKILL.md) | Makes a 3D browser game run on a school tablet: budgets, profiling, WebGL and WebGPU |
+| [`multiplayer-and-saves`](skills/multiplayer-and-saves/SKILL.md) | Saved progress, leaderboards, achievements and real-time play, done safely for children |
+| [`free-creative-toolkit`](skills/free-creative-toolkit/SKILL.md) | Headless Blender for 3D, Whisper for subtitles, Opuscar film styles for video, stock media, before any paid generation |
+| [`curriculum-to-learning-path`](skills/curriculum-to-learning-path/SKILL.md) | Turns a syllabus or a set of learning outcomes into a learning path, one course per outcome |
+| [`ai-literacy-curriculum`](skills/ai-literacy-curriculum/SKILL.md) | AI literacy for pupils and students by age, built to the framework the institution follows |
+| [`assessment-design`](skills/assessment-design/SKILL.md) | A fair evaluation: what it certifies, a blueprint, questions, points and a pass mark |
+| [`mexty-courses-for-teams`](skills/mexty-courses-for-teams/SKILL.md) | Courses, activities, evaluations and learning paths for schools and companies, with seats and analytics |
+| [`onboarding-path`](skills/onboarding-path/SKILL.md) | An onboarding path for a role, from day 1 to day 90, from the documents the company has |
+| [`compliance-course`](skills/compliance-course/SKILL.md) | One compliance course and its check, written from the organisation's own policy |
+| [`keep-training-current`](skills/keep-training-current/SKILL.md) | Training tied to its source: drafts on change, review, re-certification, scheduled agents, and a sales page from a course |
+| [`ai-literacy-at-work`](skills/ai-literacy-at-work/SKILL.md) | AI literacy for staff by role, fitted to the tools they use and the organisation's AI policy |
+| [`sales-enablement`](skills/sales-enablement/SKILL.md) | Product knowledge, pitch practice and objection handling from the product sheet |
+| [`analytics-dashboards`](skills/analytics-dashboards/SKILL.md) | Builds a custom dashboard that answers one question about learning with live data |
+| [`build-together`](skills/build-together/SKILL.md) | Co-authoring, drafts, reviews, comments, versions and merges, in the workspace and in EdVerse |
+| [`mextribe-community`](skills/mextribe-community/SKILL.md) | Posts, paid plans, comments, updates and insights: a learning community run by one person |
+| [`instagram-showcase`](skills/instagram-showcase/SKILL.md) | Reels, Stories, carousels and captions from what you made |
+
+</details>
+
 ## One ecosystem, three ways in
 
 | | For families | For creators | For organisations |
@@ -43,7 +88,7 @@ learning games on **EdVerse**, creator communities on **Mextribe**, courses and 
 | **What you do** | Play learning games, turn homework into a game, follow your child's progress | Build games and courses, alone or with others, sell them, run your own learning community | Build training as a team, assign it to your people, see who completed what |
 | **Where** | [EdVerse](https://future.mexty.ai/edverse) | EdVerse Studio and Mextribe | The MEXTY workspace: Authoring and LMS |
 | **Cost to start** | Free | Free | Authoring, Authoring + LMS or Enterprise plan |
-| **Read more** | [For parents](#for-parents-a-safe-place-and-a-way-to-follow-progress) | [For creators](#for-creators-make-list-listen-earn) | [For organisations](#for-organisations-build-assign-track) |
+| **Read more** | [Parents](audiences/parents.md) | [Game developers](audiences/game-developers.md) | [Companies](audiences/companies.md) · [Universities and schools](audiences/universities-and-schools.md) |
 
 ## Play to learn, build to earn
 
@@ -223,25 +268,7 @@ A class can build one game this way: the teacher owns it, each group works in it
 
 The MCP tools spend no MEXTY credits: your own AI subscription does the thinking. Only media generation (images, voices, 3D models, transcription) spends credits, and [`free-creative-toolkit`](skills/free-creative-toolkit/SKILL.md) shows the free way to do each one.
 
-## The skills
-
-| Skill | What it does |
-|---|---|
-| [`mexty-start`](skills/mexty-start/SKILL.md) | Works out who you are and what you need, picks the free route first, hands over to the right skill |
-| [`homework-to-game`](skills/homework-to-game/SKILL.md) | Reads a worksheet, lesson or revision list and builds a game where playing is the practising |
-| [`track-kid-progress`](skills/track-kid-progress/SKILL.md) | For parents: what a child learned on EdVerse over a week or a month, as a short report with what to try next |
-| [`edverse-game-qa`](skills/edverse-game-qa/SKILL.md) | Checks a game against the 11 EdVerse Game Requirements before the store review, and fixes what a review sent back |
-| [`edverse-publish-and-earn`](skills/edverse-publish-and-earn/SKILL.md) | Listing, pricing, submitting, and running a game with the Suggestion box and the stats |
-| [`edverse-game-performance`](skills/edverse-game-performance/SKILL.md) | Makes a 3D browser game run on a school tablet: budgets, profiling, WebGL and WebGPU |
-| [`free-creative-toolkit`](skills/free-creative-toolkit/SKILL.md) | Headless Blender for 3D, Whisper for subtitles, Opuscar film styles for video, stock media, before any paid generation |
-| [`mextribe-community`](skills/mextribe-community/SKILL.md) | Posts, paid plans, comments, updates and insights: a learning community run by one person |
-| [`mexty-courses-for-teams`](skills/mexty-courses-for-teams/SKILL.md) | Courses, activities, evaluations and learning paths for schools and companies, with seats and analytics |
-| [`analytics-dashboards`](skills/analytics-dashboards/SKILL.md) | Builds a custom dashboard that answers one question about learning with live data |
-| [`keep-training-current`](skills/keep-training-current/SKILL.md) | Compliance and product training tied to its source: drafts on change, review, re-certification, scheduled agents, and a sales page from a course |
-| [`build-together`](skills/build-together/SKILL.md) | Co-authoring, drafts, reviews, comments, versions and merges, in the workspace and in EdVerse |
-| [`instagram-showcase`](skills/instagram-showcase/SKILL.md) | Reels, Stories, carousels and captions from what you made |
-
-### Included from other authors
+## Included from other authors
 
 Game making is a craft of its own, so the repository also carries skills written by others, unchanged and under their own licences. Sources and licences are in [`THIRD_PARTY.md`](THIRD_PARTY.md).
 

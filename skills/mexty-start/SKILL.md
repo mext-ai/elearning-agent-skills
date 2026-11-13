@@ -33,6 +33,15 @@ Ask at most two questions, and only what the request has not already answered: w
 | A school, university or company | Courses, programs, evaluations, learners and seats | `mexty-courses-for-teams` |
 | A compliance, HR or product lead | Training that follows a policy or a product, kept current, with proof of who was trained | `keep-training-current` |
 | Anyone with learners or players | A dashboard that answers one question about their learning | `analytics-dashboards` |
+| A company onboarding people | A path for a role, from day 1 to day 90 | `onboarding-path` |
+| A company with a policy to train on | One compliance course and its check | `compliance-course` |
+| A company or a school teaching AI literacy | Staff by role, or pupils by age | `ai-literacy-at-work`, `ai-literacy-curriculum` |
+| A sales, support or partner lead | Product knowledge, pitch and objection practice | `sales-enablement` |
+| A teacher or lecturer with a syllabus | A learning path with a course per outcome | `curriculum-to-learning-path` |
+| Anyone writing a test or an exam | Questions, points and a pass mark | `assessment-design` |
+| A parent choosing games | Games by age, subject and language; screen-time settings | `pick-games-for-my-kid` |
+| A game maker with an idea | The design before the code | `learning-game-design` |
+| A game maker adding saves, leaderboards or co-op | The SDK and shared state, safely for children | `multiplayer-and-saves` |
 | Two or more people, a class, a team | To build the same course or game together, review each other, merge | `build-together` |
 | Anyone with something finished | To show it on Instagram or TikTok | `instagram-showcase` |
 
