@@ -35,20 +35,6 @@ learning games on **EdVerse**, creator communities on **Mextribe**, courses and 
 
 ---
 
-## The skills
-
-Twenty-three skills, grouped by who they are for. Each group has its own page with use cases and prompts to copy.
-
-**Start here** · [`mexty-start`](skills/mexty-start/SKILL.md) works out who you are and what you need, picks the free route first, and hands over.
-
-| For | Skills | Page |
-|---|---|---|
-| **Parents** | [`homework-to-game`](skills/homework-to-game/SKILL.md) · [`track-kid-progress`](skills/track-kid-progress/SKILL.md) · [`pick-games-for-my-kid`](skills/pick-games-for-my-kid/SKILL.md) | [Parents](audiences/parents.md) |
-| **Game developers** | [`learning-game-design`](skills/learning-game-design/SKILL.md) · [`homework-to-game`](skills/homework-to-game/SKILL.md) · [`edverse-game-qa`](skills/edverse-game-qa/SKILL.md) · [`edverse-publish-and-earn`](skills/edverse-publish-and-earn/SKILL.md) · [`edverse-game-performance`](skills/edverse-game-performance/SKILL.md) · [`multiplayer-and-saves`](skills/multiplayer-and-saves/SKILL.md) · [`free-creative-toolkit`](skills/free-creative-toolkit/SKILL.md) | [Game developers](audiences/game-developers.md) |
-| **Universities and schools** | [`curriculum-to-learning-path`](skills/curriculum-to-learning-path/SKILL.md) · [`ai-literacy-curriculum`](skills/ai-literacy-curriculum/SKILL.md) · [`assessment-design`](skills/assessment-design/SKILL.md) · [`mexty-courses-for-teams`](skills/mexty-courses-for-teams/SKILL.md) | [Universities and schools](audiences/universities-and-schools.md) |
-| **Companies** | [`onboarding-path`](skills/onboarding-path/SKILL.md) · [`compliance-course`](skills/compliance-course/SKILL.md) · [`keep-training-current`](skills/keep-training-current/SKILL.md) · [`ai-literacy-at-work`](skills/ai-literacy-at-work/SKILL.md) · [`sales-enablement`](skills/sales-enablement/SKILL.md) · [`analytics-dashboards`](skills/analytics-dashboards/SKILL.md) | [Companies](audiences/companies.md) |
-| **Everyone** | [`build-together`](skills/build-together/SKILL.md) · [`mextribe-community`](skills/mextribe-community/SKILL.md) · [`instagram-showcase`](skills/instagram-showcase/SKILL.md) | |
-
 ## One ecosystem, three ways in
 
 | | For families | For creators | For organisations |
