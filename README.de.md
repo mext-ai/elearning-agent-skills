@@ -297,7 +297,10 @@ Ergänzend empfohlen, jeweils aus der eigenen Quelle installiert: [bang-motion](
 ## Von der Hausaufgabe zum Spiel im Store
 
 ```
-@@DIAGRAM@@
+ Hausaufgabe ──► homework-to-game ──► edverse-game-qa ────► edverse-publish-and-earn ──► instagram-showcase
+ (ein Blatt,     Mechanik wählen,     die 11 Store-         Preis, Einreichung,          Reel, Story,
+  eine Lektion)  aus einer Vorlage    Anforderungen;        Vorschlagsbox,               Karussell
+                 bauen                Sie spielen den Test  Wochenrhythmus
 ```
 
 Jedes Spiel wird zweimal anhand derselben Anforderungen getestet: von Ihnen, indem Sie es im Studio spielen, und von einem MEXTY-Prüfer. Eine KI kann diesen Test nicht für Sie ablegen. Sie kann aber dafür sorgen, dass Sie ihn bestehen.

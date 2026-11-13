@@ -106,7 +106,7 @@ Każda z tych gier jest dostępna w sklepie i bezpłatna. Kliknij, żeby zagrać
 <tr>
 <td><a href="https://future.mexty.ai/edverse/play/6ad711bd87e1e3de99f9e2c8"><img src="assets/games/mathbot-siege.jpg" alt="MathBot Siege"></a><br><b><a href="https://future.mexty.ai/edverse/play/6ad711bd87e1e3de99f9e2c8">MathBot Siege</a></b><br><sub>Strzel w ekran z poprawną odpowiedzią, żeby wyłączyć robota. Matematyka, 7–12 lat.</sub></td>
 <td><a href="https://future.mexty.ai/edverse/play/6ae1d1c8b82eb1abf68a3fa6"><img src="assets/games/cartographers-of-the-fog.jpg" alt="The Cartographers of the Fog"></a><br><b><a href="https://future.mexty.ai/edverse/play/6ae1d1c8b82eb1abf68a3fa6">The Cartographers of the Fog</a></b><br><sub>Bitwa morska we mgle, w której ćwiczysz współrzędne na siatce i kierunki świata. Matematyka, 7–12 lat. Autor: josephmaupas2.</sub></td>
-<td><a href="https://future.mexty.ai/edverse/play/6ad9bb439c6bc47946fdc049"><img src="assets/games/body-heroes.jpg" alt="Body Heroes"></a><br><b><a href="https://future.mexty.ai/edverse/play/6ad9bb439c6bc47946fdc049">Body Heroes</a></b><br><sub>Anatomia 3D i samodzielne operacje, od szkolnej biologii po przygotowanie do studiów medycznych. Ciało i&nbsp;zdrowie, 13–18 lat. Autor: nixht1.</sub></td>
+<td><a href="https://future.mexty.ai/edverse/play/6ad9bb439c6bc47946fdc049"><img src="assets/games/body-heroes.jpg" alt="Body Heroes"></a><br><b><a href="https://future.mexty.ai/edverse/play/6ad9bb439c6bc47946fdc049">Body Heroes</a></b><br><sub>Anatomia 3D i samodzielne operacje, od szkolnej biologii po przygotowanie do studiów medycznych. Ciało i zdrowie, 13–18 lat. Autor: nixht1.</sub></td>
 </tr>
 <tr>
 <td><a href="https://future.mexty.ai/edverse/play/6aca37b57d7d7ac76d4cb78d"><img src="assets/games/math-kingdom.jpg" alt="Math Kingdom"></a><br><b><a href="https://future.mexty.ai/edverse/play/6aca37b57d7d7ac76d4cb78d">Math Kingdom</a></b><br><sub>Rachunek pamięciowy napędza Twoją armię w turnieju w czasie rzeczywistym. Matematyka, 7–15 lat.</sub></td>
@@ -297,7 +297,10 @@ Polecane dodatkowo, instalowane z własnych źródeł: [bang-motion](https://git
 ## Od pracy domowej do gry w sklepie
 
 ```
-@@DIAGRAM@@
+ praca domowa ──► homework-to-game ──► edverse-game-qa ──► edverse-publish-and-earn ──► instagram-showcase
+ (karta pracy,    wybór mechaniki,     11 wymagań sklepu;  cena, zgłoszenie,            reels, relacja,
+  lekcja)         budowa z szablonu    test przechodzisz   skrzynka sugestii,           karuzela
+                                       Ty                  cotygodniowy cykl
 ```
 
 Każda gra jest testowana dwa razy pod kątem tych samych wymagań: przez Ciebie, gdy grasz w nią w Studio, i przez recenzenta MEXTY. AI nie może przejść tego testu za Ciebie. Może za to zadbać, żeby udało Ci się go zdać.
