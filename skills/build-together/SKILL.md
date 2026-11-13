@@ -35,6 +35,10 @@ A game's world and its code can be edited by several people and assistants at th
 
 **Roles.** The owner and maintainers edit the main version and merge drafts. Everyone who joins by the share link starts as a contributor: they work in drafts and ask for a review. Store staff can read and comment.
 
+**People.** The owner manages them from the Studio's Share dialog or with the tools: `list_game_collaborators` (people, invitations, link), `invite_game_collaborators` (by email, with a role), `set_game_collaborator_role` (maintainer or contributor), `remove_game_collaborator` (or yourself, to leave), `resend_game_invite`, `withdraw_game_invite`, `set_game_share_link` (on, off, or a new link).
+
+**Open for collaboration.** The owner can also open a game to every signed-in maker, not only invited ones. It then appears in the Studio's Collaborative games and in `list_collaborative_games`. An outsider reads main and works only in their own drafts (at most 3 open per game); when the owner merges one, its author becomes a contributor. Closing it again stops new drafts; outsiders keep read-only access to drafts they already made. See `edverse-publish-and-earn` for how merged work is paid.
+
 **The flow.**
 
 1. The owner shares the game's link from the editor. Each person who joins gets the live 3D editor.

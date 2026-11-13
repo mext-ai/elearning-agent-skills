@@ -246,7 +246,7 @@ A class can build one game this way: the teacher owns it, each group works in it
 |---|---|---|---|
 | **What it is** | Store and studio for learning games, ages 4–18 | Social network for learning, with paid creator plans | AI authoring and LMS for organisations |
 | **Using it with your AI** | **Free** | **Free** | **Authoring**, **Authoring + LMS** or **Enterprise** plan |
-| **How you earn** | Sell a game at a fixed price or pay what you want, or get paid from the learner pool by minutes played (★ Included) | Paid membership plans and single sales | — |
+| **How you earn** | Sell a game at a fixed price or pay what you want, get paid from the learner pool by minutes played (★ Included), or improve games open for collaboration and share their pool earnings once your draft is merged | Paid membership plans and single sales | — |
 | **What you keep** | 80% of each sale after the card fee | 80% after card fees | — |
 
 The MCP tools spend no MEXTY credits: your own AI subscription does the thinking. Only media generation (images, voices, 3D models, transcription) spends credits, and [`free-creative-toolkit`](skills/free-creative-toolkit/SKILL.md) shows the free way to do each one.
@@ -312,6 +312,8 @@ Claude.ai: zip a skill folder and upload it under Settings → Capabilities → 
 > Is my game ready for the EdVerse review?
 
 > Read the suggestions on my live games and tell me what to build this week.
+
+> Every Monday, find a collaborative game that needs a level for fractions, build it in a draft and ask the owner for a review.
 
 > Turn our data privacy policy into a 10-minute onboarding course with a quiz, and assign it to the new hires.
 

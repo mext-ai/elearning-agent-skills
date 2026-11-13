@@ -1,6 +1,6 @@
 ---
 name: edverse-publish-and-earn
-description: Lists an EdVerse game on the store, sets its price, and runs it after launch with the Suggestion box and the stats. Use when someone wants to publish, sell or monetise a learning game, asks how creators get paid, wants to earn from their AI subscription by making games, asks about free, fixed price, pay what you want or Included pricing, or wants to read, answer or act on players' suggestions for a game.
+description: Lists an EdVerse game on the store, sets its price, and runs it after launch with the Suggestion box and the stats; and earns by improving other people's games that are open for collaboration, by hand or on an automatic routine. Use when someone wants to publish, sell or monetise a learning game, asks how creators get paid, wants to earn from their AI subscription by making or improving games, asks about free, fixed price, pay what you want or Included pricing, wants to read, answer or act on players' suggestions, wants to contribute to collaborative games or propose features to someone else's game, or wants an agent routine that does this regularly.
 ---
 
 # Publish and earn on EdVerse
@@ -64,6 +64,47 @@ Suggestions that are unkind or contain personal information are filtered. Declin
 | Tuesday | Answer the Suggestion box of every live game |
 | Midweek | Build one accepted idea, or fix the level where players stop |
 | Friday | Submit the update with `changes`, post it on Mextribe, share the kit (`instagram-showcase`) |
+
+## Earn by improving other people's games
+
+A game's owner can open it for collaboration. Any signed-in maker (an adult account, not a child's) can then read the game and propose changes in a draft of their own. Nothing reaches players until the owner merges it.
+
+**How the money works.** A game's ★ Included earnings, paid from the learner pool by the minutes children with a learner seat play it, are split each month between the people who built it, by contribution points: the 3D-world work and the lines of code of theirs still in the game. When the owner merges a draft you proposed, you join the game as a contributor and your merged work counts from then on. The owner sees the split and can adjust it until the month's statement is written. One-off sales stay with the owner, and a game that earns nothing from the pool pays nothing to anyone. Say this plainly; never promise an amount. `get_earnings` shows what has actually been paid.
+
+**Find a game and an idea.**
+
+1. `list_collaborative_games({ query })`: the games open for collaboration, with the owner's note on what help they want.
+2. `get_collaborative_game({ game_id })`: its note, its Suggestion box summary and how to propose.
+3. Read the Suggestion box (`get_game_suggestion_box`). An approved idea nobody built yet is the best start: players asked for it and the owner agreed. Without one, propose something the game clearly lacks: a level for a skill it skips, an accessibility fix, a bug players hit, a translation.
+4. Read the game before changing it (`get_scene`, `read_game_files`, `list_game_scenes`). Keep the owner's style, age range and learning goal.
+
+**Propose it.**
+
+1. `create_draft({ game_id })`. You work only in your own drafts; the main version is read-only for you. A person can have 3 open drafts per game.
+2. Build in the draft (the scene and file tools take `draft_id`; your writes go to your draft automatically). Keep one idea per draft so the owner can say yes to it alone.
+3. Check it still passes `edverse-game-qa` for what you touched.
+4. `get_draft_diff`, then `request_review` with a short note: what it adds, which suggestion it answers, how to try it. The owner gets an email.
+5. Follow up with `list_drafts`. Answer change requests in the same draft. If main moved, `update_draft_from_main` first.
+
+Do not create drafts on many games at once to see what sticks. Owners decide what they merge, and spam gets your drafts closed.
+
+**As the owner, opening your game.** Turn on "Open for collaboration" from the game's Share dialog in the Studio and write a one-line note on the help you want. Outsiders can then read your game's scenes, code and assets and propose drafts; they cannot change main, your listing, your price or your people. Review with `get_draft_diff`, merge with `merge_draft`. Manage your team with `list_game_collaborators`, `invite_game_collaborators`, `set_game_collaborator_role` (maintainer or contributor) and `remove_game_collaborator`.
+
+## A routine that runs on its own
+
+If the AI app can run scheduled tasks (Claude routines, ChatGPT tasks, a cron job calling an agent), set one up once and let it work. A weekly routine:
+
+1. `list_collaborative_games`, then `get_collaborative_game` on the few that fit the person's skills and subjects.
+2. For each, read the Suggestion box and pick at most one idea: an approved suggestion first, else a clear gap or bug.
+3. Skip a game where the person already has a draft waiting for review.
+4. Build the idea in a new draft, check it, and `request_review` with a note.
+5. Check last week's drafts with `list_drafts`: answer change requests, catch up with main, close drafts the owner declined.
+6. For their own games, run the Suggestion box loop above and answer new suggestions.
+7. Write a short report: what was proposed, what was merged, and what `get_earnings` shows.
+
+Guardrails for a routine: one idea per draft, one draft per game per week, never `merge_draft` on someone else's game, never reply to children's suggestions without a human reading the reply first, and stop and ask the person when an idea would change a game's price, age range or learning goal.
+
+Mextribe can turn the work into followers: post the games you shipped or improved with `mextribe-community`.
 
 ## More content without a new game
 
