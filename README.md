@@ -49,8 +49,17 @@ Twenty-three skills, grouped by who they are for. Each group has its own page wi
 | **Companies** | [`onboarding-path`](skills/onboarding-path/SKILL.md) · [`compliance-course`](skills/compliance-course/SKILL.md) · [`keep-training-current`](skills/keep-training-current/SKILL.md) · [`ai-literacy-at-work`](skills/ai-literacy-at-work/SKILL.md) · [`sales-enablement`](skills/sales-enablement/SKILL.md) · [`analytics-dashboards`](skills/analytics-dashboards/SKILL.md) | [Companies](audiences/companies.md) |
 | **Everyone** | [`build-together`](skills/build-together/SKILL.md) · [`mextribe-community`](skills/mextribe-community/SKILL.md) · [`instagram-showcase`](skills/instagram-showcase/SKILL.md) | |
 
-<details>
-<summary>What each skill does</summary>
+## One ecosystem, three ways in
+
+| | For families | For creators | For organisations |
+|---|---|---|---|
+| **Who** | Parents, children, students | Teachers, game makers, anyone with an AI subscription | Schools, universities, training providers, small and mid-size companies |
+| **What you do** | Play learning games, turn homework into a game, follow your child's progress | Build games and courses, alone or with others, sell them, run your own learning community | Build training as a team, assign it to your people, see who completed what |
+| **Where** | [EdVerse](https://future.mexty.ai/edverse) | EdVerse Studio and Mextribe | The MEXTY workspace: Authoring and LMS |
+| **Cost to start** | Free | Free | Authoring, Authoring + LMS or Enterprise plan |
+| **Read more** | [Parents](audiences/parents.md) | [Game developers](audiences/game-developers.md) | [Companies](audiences/companies.md) · [Universities and schools](audiences/universities-and-schools.md) |
+
+## What each skill does
 
 | Skill | What it does |
 |---|---|
@@ -77,18 +86,6 @@ Twenty-three skills, grouped by who they are for. Each group has its own page wi
 | [`build-together`](skills/build-together/SKILL.md) | Co-authoring, drafts, reviews, comments, versions and merges, in the workspace and in EdVerse |
 | [`mextribe-community`](skills/mextribe-community/SKILL.md) | Posts, paid plans, comments, updates and insights: a learning community run by one person |
 | [`instagram-showcase`](skills/instagram-showcase/SKILL.md) | Reels, Stories, carousels and captions from what you made |
-
-</details>
-
-## One ecosystem, three ways in
-
-| | For families | For creators | For organisations |
-|---|---|---|---|
-| **Who** | Parents, children, students | Teachers, game makers, anyone with an AI subscription | Schools, universities, training providers, small and mid-size companies |
-| **What you do** | Play learning games, turn homework into a game, follow your child's progress | Build games and courses, alone or with others, sell them, run your own learning community | Build training as a team, assign it to your people, see who completed what |
-| **Where** | [EdVerse](https://future.mexty.ai/edverse) | EdVerse Studio and Mextribe | The MEXTY workspace: Authoring and LMS |
-| **Cost to start** | Free | Free | Authoring, Authoring + LMS or Enterprise plan |
-| **Read more** | [Parents](audiences/parents.md) | [Game developers](audiences/game-developers.md) | [Companies](audiences/companies.md) · [Universities and schools](audiences/universities-and-schools.md) |
 
 ## Play to learn, build to earn
 
