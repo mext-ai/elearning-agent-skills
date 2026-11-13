@@ -185,12 +185,12 @@ AI 구독 하나만 있으면 한 사람이 전 과정을 돌릴 수 있습니�
 
 <table>
 <tr>
-<td width="50%"><img src="assets/platform/editor-colour-garden.jpg" alt="Colour Garden을 띄운 EdVerse 에디터: 정원에 떠 있는 여섯 가지 색 풍선"><br><sub><b>Colour Garden.</b> 색 이름을 듣고 알맞은 풍선을 누릅니다. 여섯 가지 색을 영어, 프랑스어, 태국어로 들려줍니다.</sub></td>
-<td width="50%"><img src="assets/platform/editor-canopy.jpg" alt="EdVerse 에디터에 렌더링된 Canopy의 열대우림을 나무 위에서 내려다본 모습"><br><sub><b>Canopy.</b> 오픈 월드 열대우림입니다. 새끼에게 먹이를 주는 새가 되었다가, 숲이 줄어드는 가운데 자라나는 새끼가 되어 플레이합니다.</sub></td>
+<td width="50%"><img src="assets/platform/game-songthaew-rush.jpg" alt="Songthaew Rush: a black Beetle on the plaza of Tha Phae Gate in Chiang Mai, with the sun behind the city wall"><br><sub><b>Songthaew Rush.</b> OpenStreetMap으로 재현한 치앙마이. 타패 게이트 앞의 검은 비틀, 그래픽은 Ultra 설정입니다.</sub></td>
+<td width="50%"><img src="assets/platform/game-prism-landing.jpg" alt="Prism's title scene: a starship beside a ringed planet, and a prism splitting a beam into a rainbow"><br><sub><b>Prism.</b> 오프닝 장면. 잠든 우주선, 그리고 유일한 도구인 빛.</sub></td>
 </tr>
 </table>
 
-<sub>제작 중인 게임을 에디터에서 본 모습입니다.</sub>
+<sub>Floodline은 에디터 화면, Songthaew Rush와 Prism은 플레이 화면입니다.</sub>
 
 ## Mextribe: 크리에이터에게 배우고, 나의 트라이브를 가르칩니다
 

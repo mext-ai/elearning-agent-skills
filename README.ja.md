@@ -185,12 +185,12 @@ AI のサブスクリプションがひとつあれば、ひとりですべて�
 
 <table>
 <tr>
-<td width="50%"><img src="assets/platform/editor-colour-garden.jpg" alt="Colour Garden を表示した EdVerse エディター：庭に浮かぶ6色の風船"><br><sub><b>Colour Garden。</b> 色の名前を聞いて、正しい風船をタップ。6つの色を英語、フランス語、タイ語で読み上げます。</sub></td>
-<td width="50%"><img src="assets/platform/editor-canopy.jpg" alt="EdVerse エディターで描画された Canopy の熱帯雨林を、木々の上から見たところ"><br><sub><b>Canopy。</b> オープンワールドの熱帯雨林。最初はヒナにエサを運ぶ親鳥として、次に森が小さくなっていく中で育つヒナとしてプレイします。</sub></td>
+<td width="50%"><img src="assets/platform/game-songthaew-rush.jpg" alt="Songthaew Rush: a black Beetle on the plaza of Tha Phae Gate in Chiang Mai, with the sun behind the city wall"><br><sub><b>Songthaew Rush.</b> OpenStreetMap から再現したチェンマイ。ターペー門の前に停まる黒いビートル、グラフィックは Ultra 設定です。</sub></td>
+<td width="50%"><img src="assets/platform/game-prism-landing.jpg" alt="Prism's title scene: a starship beside a ringed planet, and a prism splitting a beam into a rainbow"><br><sub><b>Prism.</b> オープニングシーン。眠る宇宙船と、唯一の道具である光。</sub></td>
 </tr>
 </table>
 
-<sub>制作中のゲームをエディターで表示しています。</sub>
+<sub>Floodline はエディター上、Songthaew Rush と Prism はプレイ中の画面です。</sub>
 
 ## Mextribe：クリエイターから学び、あなたのトライブに教える
 

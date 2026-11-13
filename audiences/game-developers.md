@@ -52,8 +52,8 @@ Every game is tested against 11 requirements, by you in the Studio and then by a
 
 <table>
 <tr>
-<td width="50%"><img src="../assets/platform/editor-colour-garden.jpg" alt="The EdVerse editor showing Colour Garden: six coloured balloons in a garden"></td>
-<td width="50%"><img src="../assets/platform/editor-canopy.jpg" alt="Canopy's rainforest as it renders in the EdVerse editor, seen from above the trees"></td>
+<td width="50%"><img src="../assets/platform/game-songthaew-rush.jpg" alt="Songthaew Rush: a black Beetle on the plaza of Tha Phae Gate in Chiang Mai, with the sun behind the city wall"></td>
+<td width="50%"><img src="../assets/platform/game-prism-landing.jpg" alt="Prism's title scene: a starship beside a ringed planet, and a prism splitting a beam into a rainbow"></td>
 </tr>
 </table>
 

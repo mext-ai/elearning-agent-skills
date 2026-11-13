@@ -185,12 +185,12 @@
 
 <table>
 <tr>
-<td width="50%"><img src="assets/platform/editor-colour-garden.jpg" alt="EdVerse 编辑器中的 Colour Garden：花园里的六只彩色气球"><br><sub><b>Colour Garden。</b> 听颜色，点对气球。六种颜色，用英语、法语和泰语朗读。</sub></td>
-<td width="50%"><img src="assets/platform/editor-canopy.jpg" alt="EdVerse 编辑器中渲染的 Canopy 雨林，从树冠上方俯瞰"><br><sub><b>Canopy。</b> 一片开放世界的雨林：你先扮演一只喂养雏鸟的鸟，再扮演那只在森林日渐缩小中长大的雏鸟。</sub></td>
+<td width="50%"><img src="assets/platform/game-songthaew-rush.jpg" alt="Songthaew Rush: a black Beetle on the plaza of Tha Phae Gate in Chiang Mai, with the sun behind the city wall"><br><sub><b>Songthaew Rush.</b> 根据 OpenStreetMap 重建的清迈：塔佩门前的一辆黑色甲壳虫，Ultra 画质。</sub></td>
+<td width="50%"><img src="assets/platform/game-prism-landing.jpg" alt="Prism's title scene: a starship beside a ringed planet, and a prism splitting a beam into a rainbow"><br><sub><b>Prism.</b> 开场画面：一艘沉睡的飞船，光是你唯一的工具。</sub></td>
 </tr>
 </table>
 
-<sub>制作中的游戏，编辑器内画面。</sub>
+<sub>Floodline 为编辑器中的画面；Songthaew Rush 和 Prism 为游戏运行画面。</sub>
 
 ## Mextribe：向创作者学习，教你的部落
 

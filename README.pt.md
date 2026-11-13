@@ -185,12 +185,12 @@ Cada jogo abre em um editor 3D ao vivo, no navegador. Você, os seus colaborador
 
 <table>
 <tr>
-<td width="50%"><img src="assets/platform/editor-colour-garden.jpg" alt="O editor do EdVerse mostrando Colour Garden: seis balões coloridos em um jardim"><br><sub><b>Colour Garden.</b> Ouça a cor, toque no balão certo. Seis cores, faladas em inglês, francês e tailandês.</sub></td>
-<td width="50%"><img src="assets/platform/editor-canopy.jpg" alt="A floresta tropical de Canopy renderizada no editor do EdVerse, vista de cima das árvores"><br><sub><b>Canopy.</b> Uma floresta tropical em mundo aberto: você joga como um pássaro que alimenta o filhote e, depois, como o filhote que cresce enquanto a floresta encolhe.</sub></td>
+<td width="50%"><img src="assets/platform/game-songthaew-rush.jpg" alt="Songthaew Rush: a black Beetle on the plaza of Tha Phae Gate in Chiang Mai, with the sun behind the city wall"><br><sub><b>Songthaew Rush.</b> Chiang Mai reconstruída a partir do OpenStreetMap: um Fusca preto em frente ao portão Tha Phae, com gráficos Ultra.</sub></td>
+<td width="50%"><img src="assets/platform/game-prism-landing.jpg" alt="Prism's title scene: a starship beside a ringed planet, and a prism splitting a beam into a rainbow"><br><sub><b>Prism.</b> A cena de abertura: uma nave adormecida e a luz como única ferramenta.</sub></td>
 </tr>
 </table>
 
-<sub>Jogos em desenvolvimento, mostrados no editor.</sub>
+<sub>Floodline aparece no editor; Songthaew Rush e Prism, durante o jogo.</sub>
 
 ## Mextribe: aprenda com criadores, ensine a sua comunidade
 

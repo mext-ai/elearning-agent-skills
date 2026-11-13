@@ -186,12 +186,12 @@
 
 <table>
 <tr>
-<td width="50%"><img src="assets/platform/editor-colour-garden.jpg" alt="محرّر EdVerse يعرض Colour Garden: ستة بالونات ملوّنة في حديقة"><br><sub><b>Colour Garden.</b> استمع إلى اسم اللون وانقر على البالون الصحيح. ستة ألوان منطوقة بالإنجليزية والفرنسية والتايلاندية.</sub></td>
-<td width="50%"><img src="assets/platform/editor-canopy.jpg" alt="الغابة المطيرة في Canopy كما تظهر في محرّر EdVerse، من فوق الأشجار"><br><sub><b>Canopy.</b> غابة مطيرة في عالم مفتوح: تلعب دور طائر يطعم فرخه، ثم دور الفرخ وهو يكبر بينما تنكمش الغابة.</sub></td>
+<td width="50%"><img src="assets/platform/game-songthaew-rush.jpg" alt="Songthaew Rush: a black Beetle on the plaza of Tha Phae Gate in Chiang Mai, with the sun behind the city wall"><br><sub><b>Songthaew Rush.</b> شيانغ ماي معاد بناؤها من OpenStreetMap: سيارة بيتل سوداء أمام بوابة ثا باي، بإعدادات رسوم Ultra.</sub></td>
+<td width="50%"><img src="assets/platform/game-prism-landing.jpg" alt="Prism's title scene: a starship beside a ringed planet, and a prism splitting a beam into a rainbow"><br><sub><b>Prism.</b> المشهد الافتتاحي: سفينة فضاء نائمة، والضوء أداتك الوحيدة.</sub></td>
 </tr>
 </table>
 
-<sub>ألعاب قيد الإنجاز، معروضة في المحرّر.</sub>
+<sub>تظهر Floodline داخل المحرّر؛ أما Songthaew Rush و Prism فأثناء اللعب.</sub>
 
 ## Mextribe: تعلّم من صنّاع المحتوى، وعلّم جمهورك
 

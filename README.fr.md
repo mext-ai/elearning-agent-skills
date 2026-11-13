@@ -185,12 +185,12 @@ Chaque jeu s'ouvre dans un éditeur 3D en direct, dans le navigateur. Vous, vos 
 
 <table>
 <tr>
-<td width="50%"><img src="assets/platform/editor-colour-garden.jpg" alt="L'éditeur EdVerse affichant Colour Garden : six ballons de couleur dans un jardin"><br><sub><b>Colour Garden.</b> Écoutez la couleur, touchez le bon ballon. Six couleurs, prononcées en anglais, en français et en thaï.</sub></td>
-<td width="50%"><img src="assets/platform/editor-canopy.jpg" alt="La forêt tropicale de Canopy telle qu'elle s'affiche dans l'éditeur EdVerse, vue d'au-dessus des arbres"><br><sub><b>Canopy.</b> Une forêt tropicale en monde ouvert : vous incarnez un oiseau qui nourrit son oisillon, puis l'oisillon qui grandit à mesure que la forêt recule.</sub></td>
+<td width="50%"><img src="assets/platform/game-songthaew-rush.jpg" alt="Songthaew Rush: a black Beetle on the plaza of Tha Phae Gate in Chiang Mai, with the sun behind the city wall"><br><sub><b>Songthaew Rush.</b> Chiang Mai reconstruite à partir d'OpenStreetMap : une Coccinelle noire devant la porte Tha Phae, en qualité Ultra.</sub></td>
+<td width="50%"><img src="assets/platform/game-prism-landing.jpg" alt="Prism's title scene: a starship beside a ringed planet, and a prism splitting a beam into a rainbow"><br><sub><b>Prism.</b> La scène d'ouverture : un vaisseau endormi, et la lumière pour seul outil.</sub></td>
 </tr>
 </table>
 
-<sub>Jeux en cours de création, présentés dans l'éditeur.</sub>
+<sub>Floodline est montré dans l'éditeur ; Songthaew Rush et Prism en cours de jeu.</sub>
 
 ## Mextribe : apprenez auprès des créateurs, formez votre tribu
 

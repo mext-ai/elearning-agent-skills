@@ -185,12 +185,12 @@ Every game opens in a live 3D editor in the browser. You, your collaborators and
 
 <table>
 <tr>
-<td width="50%"><img src="assets/platform/editor-colour-garden.jpg" alt="The EdVerse editor showing Colour Garden: six coloured balloons in a garden"><br><sub><b>Colour Garden.</b> Listen to the colour, tap the right balloon. Six colours, spoken in English, French and Thai.</sub></td>
-<td width="50%"><img src="assets/platform/editor-canopy.jpg" alt="Canopy's rainforest as it renders in the EdVerse editor, seen from above the trees"><br><sub><b>Canopy.</b> An open-world rainforest: you play a bird feeding its chick, then the chick growing up as the forest shrinks.</sub></td>
+<td width="50%"><img src="assets/platform/game-songthaew-rush.jpg" alt="Songthaew Rush: a black Beetle on the plaza of Tha Phae Gate in Chiang Mai, with the sun behind the city wall"><br><sub><b>Songthaew Rush.</b> Chiang Mai rebuilt from OpenStreetMap: a black Beetle in front of Tha Phae Gate, on Ultra graphics.</sub></td>
+<td width="50%"><img src="assets/platform/game-prism-landing.jpg" alt="Prism's title scene: a starship beside a ringed planet, and a prism splitting a beam into a rainbow"><br><sub><b>Prism.</b> The opening scene: a sleeping starship, and light as your only tool.</sub></td>
 </tr>
 </table>
 
-<sub>Games in progress, shown in the editor.</sub>
+<sub>Floodline is shown in the editor; Songthaew Rush and Prism as they play.</sub>
 
 ## Mextribe: learn from creators, teach your tribe
 

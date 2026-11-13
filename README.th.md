@@ -185,12 +185,12 @@
 
 <table>
 <tr>
-<td width="50%"><img src="assets/platform/editor-colour-garden.jpg" alt="เอดิเตอร์ของ EdVerse แสดงเกม Colour Garden: ลูกโป่งหกสีในสวน"><br><sub><b>Colour Garden</b> ฟังชื่อสี แล้วแตะลูกโป่งให้ถูกลูก หกสี พูดเป็นภาษาอังกฤษ ฝรั่งเศส และไทย</sub></td>
-<td width="50%"><img src="assets/platform/editor-canopy.jpg" alt="ป่าฝนของ Canopy ตามที่แสดงผลในเอดิเตอร์ของ EdVerse มองจากเหนือยอดไม้"><br><sub><b>Canopy</b> ป่าฝนแบบโอเพนเวิลด์: คุณเล่นเป็นนกที่หาอาหารให้ลูก แล้วเล่นเป็นลูกนกที่เติบโตขึ้นในขณะที่ผืนป่าหดเล็กลง</sub></td>
+<td width="50%"><img src="assets/platform/game-songthaew-rush.jpg" alt="Songthaew Rush: a black Beetle on the plaza of Tha Phae Gate in Chiang Mai, with the sun behind the city wall"><br><sub><b>Songthaew Rush.</b> เชียงใหม่ที่สร้างขึ้นใหม่จาก OpenStreetMap: รถเต่าสีดำหน้าประตูท่าแพ ด้วยกราฟิกระดับ Ultra</sub></td>
+<td width="50%"><img src="assets/platform/game-prism-landing.jpg" alt="Prism's title scene: a starship beside a ringed planet, and a prism splitting a beam into a rainbow"><br><sub><b>Prism.</b> ฉากเปิดเกม: ยานอวกาศที่หลับใหล และแสงคือเครื่องมือเพียงอย่างเดียว</sub></td>
 </tr>
 </table>
 
-<sub>เกมที่กำลังพัฒนา แสดงในเอดิเตอร์</sub>
+<sub>Floodline แสดงในตัวแก้ไข ส่วน Songthaew Rush และ Prism เป็นภาพขณะเล่น</sub>
 
 ## Mextribe: เรียนรู้จากครีเอเตอร์ สอนชุมชนของคุณเอง
 
