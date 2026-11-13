@@ -154,7 +154,7 @@ Every game opens in a live 3D editor in the browser. You, your collaborators and
 <table>
 <tr>
 <td width="50%"><img src="assets/platform/editor-colour-garden.jpg" alt="The EdVerse editor showing Colour Garden: six coloured balloons in a garden"><br><sub><b>Colour Garden.</b> Listen to the colour, tap the right balloon. Six colours, spoken in English, French and Thai.</sub></td>
-<td width="50%"><img src="assets/platform/editor-canopy.jpg" alt="The EdVerse editor showing Canopy: a dense rainforest seen from above"><br><sub><b>Canopy.</b> An open-world rainforest: you play a bird feeding its chick, then the chick growing up as the forest shrinks.</sub></td>
+<td width="50%"><img src="assets/platform/editor-canopy.jpg" alt="Canopy's rainforest as it renders in the EdVerse editor, seen from above the trees"><br><sub><b>Canopy.</b> An open-world rainforest: you play a bird feeding its chick, then the chick growing up as the forest shrinks.</sub></td>
 </tr>
 </table>
 
