@@ -52,7 +52,7 @@ Work in a draft (`create_content_draft`), ask for a review (`request_content_rev
 
 ## Follow up
 
-`get_analytics_overview` and `get_learner_analytics` show completion and where learners struggle. Report what the numbers say and propose one change, such as splitting the module most people abandon.
+`get_analytics_overview` and `get_learner_analytics` show completion and where learners struggle. For a view the standard page does not give, build one with `analytics-dashboards`. To keep courses in step with the policies and products they describe, see `keep-training-current`. Report what the numbers say and propose one change, such as splitting the module most people abandon.
 
 ## Sharing beyond the organisation
 
