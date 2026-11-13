@@ -186,7 +186,7 @@ A class can build one game this way: the teacher owns it, each group works in it
 |---|---|---|---|
 | **What it is** | Store and studio for learning games, ages 4–18 | Social network for learning, with paid creator plans | AI authoring and LMS for organisations |
 | **Using it with your AI** | **Free** | **Free** | **Authoring**, **Authoring + LMS** or **Enterprise** plan |
-| **How you earn** | Sell a game at a fixed price or pay what you want, or get paid from the learner pool by minutes played (★ Included) | Paid membership plans and single sales | — |
+| **How you earn** | Sell a game at a fixed price or pay what you want, get paid from the learner pool by minutes played (★ Included), or improve games open for collaboration and share their pool earnings once your draft is merged | Paid membership plans and single sales | — |
 | **What you keep** | 80% of each sale after the card fee | 80% after card fees | — |
 
 The MCP tools spend no MEXTY credits: your own AI subscription does the thinking. Only media generation (images, voices, 3D models, transcription) spends credits, and [`free-creative-toolkit`](skills/free-creative-toolkit/SKILL.md) shows the free way to do each one.
@@ -199,7 +199,7 @@ The MCP tools spend no MEXTY credits: your own AI subscription does the thinking
 | [`homework-to-game`](skills/homework-to-game/SKILL.md) | Reads a worksheet, lesson or revision list and builds a game where playing is the practising |
 | [`track-kid-progress`](skills/track-kid-progress/SKILL.md) | For parents: what a child learned on EdVerse over a week or a month, as a short report with what to try next |
 | [`edverse-game-qa`](skills/edverse-game-qa/SKILL.md) | Checks a game against the 11 EdVerse Game Requirements before the store review, and fixes what a review sent back |
-| [`edverse-publish-and-earn`](skills/edverse-publish-and-earn/SKILL.md) | Listing, pricing, submitting, and running a game with the Suggestion box and the stats |
+| [`edverse-publish-and-earn`](skills/edverse-publish-and-earn/SKILL.md) | Listing, pricing, submitting, and running a game with the Suggestion box and the stats; improving other people's open games, by hand or on a weekly routine |
 | [`edverse-game-performance`](skills/edverse-game-performance/SKILL.md) | Makes a 3D browser game run on a school tablet: budgets, profiling, WebGL and WebGPU |
 | [`free-creative-toolkit`](skills/free-creative-toolkit/SKILL.md) | Headless Blender for 3D, Whisper for subtitles, Opuscar film styles for video, stock media, before any paid generation |
 | [`mextribe-community`](skills/mextribe-community/SKILL.md) | Posts, paid plans, comments, updates and insights: a learning community run by one person |
@@ -268,6 +268,8 @@ Claude.ai: zip a skill folder and upload it under Settings → Capabilities → 
 > Is my game ready for the EdVerse review?
 
 > Read the suggestions on my live games and tell me what to build this week.
+
+> Every Monday, find a collaborative game that needs a level for fractions, build it in a draft and ask the owner for a review.
 
 > Turn our data privacy policy into a 10-minute onboarding course with a quiz, and assign it to the new hires.
 
