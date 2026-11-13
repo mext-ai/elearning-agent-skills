@@ -145,7 +145,20 @@ You keep 80% of each game sale after the card fee, and 80% of Mextribe membershi
 
 ### The EdVerse editor
 
-Every game opens in a live 3D editor in the browser. You, your collaborators and your AI assistants build in the same world at the same time: describe what you want and watch it appear, or move things yourself.
+Every game opens in a live 3D editor in the browser. You, your collaborators and your AI assistants build in the same world at the same time: describe what you want and watch it appear, or move things yourself. The top bar switches between view, play and edit, previews phone, tablet and desktop, opens the history, and calls the Assistant.
+
+<img src="assets/platform/editor-floodline.jpg" alt="The EdVerse editor showing Floodline: white rooftops of a flooded city above rising water" width="820">
+
+<sub><b>Floodline.</b> A first-person parkour game across the rooftops of a flooding city, where linear functions and rates of change tell you how long you have. Math, ages 13–15.</sub>
+
+<table>
+<tr>
+<td width="50%"><img src="assets/platform/editor-colour-garden.jpg" alt="The EdVerse editor showing Colour Garden: six coloured balloons in a garden"><br><sub><b>Colour Garden.</b> Listen to the colour, tap the right balloon. Six colours, spoken in English, French and Thai.</sub></td>
+<td width="50%"><img src="assets/platform/editor-canopy.jpg" alt="The EdVerse editor showing Canopy: a dense rainforest seen from above"><br><sub><b>Canopy.</b> An open-world rainforest: you play a bird feeding its chick, then the chick growing up as the forest shrinks.</sub></td>
+</tr>
+</table>
+
+<sub>Games in progress, shown in the editor.</sub>
 
 ## For organisations: build, assign, track
 
