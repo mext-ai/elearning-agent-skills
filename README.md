@@ -188,6 +188,34 @@ Every game opens in a live 3D editor in the browser. You, your collaborators and
 
 <sub>Games in progress, shown in the editor.</sub>
 
+## Mextribe: learn from creators, teach your tribe
+
+Mextribe is the social side of the ecosystem. Creators post what they make: courses, learning paths, interactive activities, videos and EdVerse games. Learners follow them for free and subscribe for the rest. Using it is free, for creators and for learners.
+
+<a href="https://future.mexty.ai/mextribe/explore"><img src="assets/platform/mextribe-explore.jpg" alt="Mextribe Explore: a grid of activities and videos from creators, with tabs for trending, new creators, free and games" width="820"></a>
+
+<sub><b>Explore.</b> For you, trending, new creators, free and games. Anyone can browse without an account.</sub>
+
+<table>
+<tr>
+<td width="50%"><a href="https://future.mexty.ai/mextribe/@fabien.sabati"><img src="assets/platform/mextribe-profile.jpg" alt="A creator's Mextribe profile: posts, followers and members, series, and a grid of pinned activities and videos"></a><br><sub><b>A creator's page.</b> Posts, followers and members; series; a grid the creator orders and pins; tabs for courses, paths, videos, activities and games.</sub></td>
+<td width="50%"><img src="assets/platform/mextribe-post.jpg" alt="A Mextribe post: an interactive activity that plays in place, with its audience, likes, comments, share and save"><br><sub><b>A post.</b> The activity plays right there. Likes, comments, share and save; progress and certificates go to the learner's MEXTY account.</sub></td>
+</tr>
+</table>
+
+| For learners | For creators |
+|---|---|
+| Follow creators for free | Post anything you built on MEXTY or EdVerse, plus videos and photos |
+| Play courses, activities and games in place | Free posts, members-only posts, or a single price on one post |
+| Subscribe to a creator's plan for the full library | Paid plans, Patreon-style: you keep 80% after card fees, paid out monthly |
+| Comment and ask questions | Answer comments, pin the good ones, hold or hide the rest |
+| Every post states the ages it is for | Send an update or a poll to followers or members |
+| | Insights: followers, members, earnings, where learners drop off |
+
+**Safe by design.** There are no private messages. Every post declares its audience by age; a creator's first post aimed at under-18s is reviewed by MEXTY before it goes live; comments that ask to talk elsewhere or for personal details are held. Learners under 18 appear to creators as a first name and an initial.
+
+**Run it from your AI.** "Post my chemistry course for ages 13 to 17, lesson 1 free, the rest for members." "Show me the comments waiting for an answer and draft kind replies." "Which post brought the most members this month?" Every post starts as a draft, and nothing is published, priced or sent without your yes. See [`mextribe-community`](skills/mextribe-community/SKILL.md), and [`instagram-showcase`](skills/instagram-showcase/SKILL.md) for the share kit: link, QR code, Story card and captions.
+
 ## For organisations: build, assign, track
 
 MEXTY is an authoring tool and an LMS, bought separately or together. With the MEXTY MCP, your own AI assistant builds inside your workspace: courses, interactive activities, evaluations and whole learning paths, from your documents and policies.
